@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font: normal 15pt Arial;
+}
+
+
+section{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background-color: bisque;
+    border-radius: 15px;
+
+}

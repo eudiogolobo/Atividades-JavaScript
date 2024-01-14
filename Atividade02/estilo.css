@@ -1,0 +1,46 @@
+body{
+background-color: black;
+font: normal 15pt Arial;
+text-align: center;
+}
+
+header{
+    color: white;
+}
+
+section{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: white;
+    margin: auto;
+}
+
+div{
+    display: flex;
+    
+    height: 50px;
+    align-items: center;
+    
+}
+
+img{
+    text-align: center;
+    width: 200px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+
+footer{
+    color: white;
+}
+.res{display: contents;
+    text-align: center;
+}
+
+.imgg{
+    display: contents;
+    height: 200px;
+}
